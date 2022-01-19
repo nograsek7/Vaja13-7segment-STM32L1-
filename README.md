@@ -17,4 +17,9 @@ Opazujte delovanje 7-segmentega prikazovalnika. Kaj se zgodi, ko pritisnemo črn
 ____Resetera se oz. začne šteti od začetka____
 
 Komentar:
-V PDF
+V PDF dokumetu pri 2. nalogi e primer je 0 - la napačno definirana z ničlami pa enkami.
+Ostalih večjih problemov nismo imeli oz. jih nismo zaznali.
+7 segmentni displej se je lepo in enakomerno spreminjal. Tudi z črno tipko reset nismo imeli težav, saj se je vsakič ko si jo pritisnil lepo štelo od začetka.
+
+
+Luka Nograšek, Luka Buzina, Žiga Kuder
